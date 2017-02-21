@@ -1,4 +1,4 @@
-# DiRT Directory - Digital Research Tools
+# A Review of DiRT Directory - Digital Research Tools
 ##### by Caroline Dres
 ### Introduction
 
